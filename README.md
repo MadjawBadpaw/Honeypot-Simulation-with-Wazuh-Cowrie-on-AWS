@@ -65,10 +65,7 @@ Basic attacks performed:
 
 ---
 
-## 📁 Project Structure
 
-
----
 
 ## ✅ Status
 
